@@ -56,7 +56,7 @@ body a:focus {
 }
 
 .header-agileinfo {
-    background: url(../images/bg.jpg) no-repeat center;
+    background: url(../images/Jobaer.jpg) no-repeat center;
     background-size: contain;
     min-height: 730px;
 }
@@ -2622,6 +2622,22 @@ span.icon_g_plus {
     font-size: 20px;
     text-align: center;
 }
+.icon_microsoft{
+    background: url(../images/azure.png) no-repeat center;
+}
+
+.icon_lynda{
+    background: url(../images/lynda.png) no-repeat center;
+}
+
+.icon_pluralsight{
+    background: url(../images/pluralsight.jpg) no-repeat center;
+}
+
+.icon_udemy{
+    background: url(../images/udemy.png) no-repeat center;
+}
+
 .icon_uva{
     background: url(../images/uva_logo.png) no-repeat center;
 }
