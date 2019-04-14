@@ -56,7 +56,7 @@ body a:focus {
 }
 
 .header-agileinfo {
-    background: url(../images/Jobaer.jpg) no-repeat center;
+    background: url(../images/jobaer.jpg) no-repeat center;
     background-size: contain;
     min-height: 730px;
 }
