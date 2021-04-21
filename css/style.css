@@ -869,6 +869,7 @@ div#services {
     font-size: 2.5em;
     font-weight: 300;
     margin-bottom: 0.5em;
+    text-align: center;
 }
 
 .services-left {
@@ -876,22 +877,14 @@ div#services {
 }
 
 .services-right-w3ls {
-    padding: 2em 2em;
-    margin-top: 3em;
     margin-left: 6em;
     -webkit-box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);
     -moz-box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);
     box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);
 }
 
-.serv-left {
-    border: 2px dashed #d0d0d0;
-    width: 350px;
-    height: 350px;
-    margin-left: 8em;
-    border-radius: 50%;
-    position: relative;
-    padding-top: 8.5em;
+.work {
+    background:url(../images/my_work.PNG) no-repeat center;
 }
 
 .icon-grid1 {
@@ -2178,9 +2171,7 @@ span.icon_g_plus {
     .banner-text h4 {
         font-size: 2.3em;
     }
-    .services-right-w3ls h5 {
-        font-size: 2.1em;
-    }
+
     .subscribe-form {
         width: 65%;
     }
@@ -2311,9 +2302,6 @@ span.icon_g_plus {
         height: 48px;
         line-height: 47px;
     }
-    .services-right-w3ls h5 {
-        font-size: 1.9em;
-    }
     .skills-bar {
         width: 78%;
         margin: 3em auto 0;
@@ -2379,9 +2367,7 @@ span.icon_g_plus {
     .serv-txt h5 {
         font-size: 1.5em;
     }
-    .services-right-w3ls {
-        margin-top: 2em;
-    }
+
     .simplefilter li,
     .multifilter li,
     .sortandshuffle li {
@@ -2426,9 +2412,6 @@ span.icon_g_plus {
     }
     h4.aboutbtm-head {
         font-size: 2.1em;
-    }
-    .services-right-w3ls {
-        padding: 2em 1em;
     }
     .simplefilter li,
     .multifilter li,
@@ -2488,9 +2471,7 @@ span.icon_g_plus {
     .subscribe-main input[type="submit"] {
         width: 30%;
     }
-    .services-right-w3ls h5 {
-        font-size: 1.7em;
-    }
+
     figure.port-gird:hover figcaption.port-gird-caption-agileits_w3layouts {
         top: 76%;
     }
